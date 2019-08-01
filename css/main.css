@@ -1,0 +1,100 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+#contenador{
+	width: auto;
+	background: #C0C0C0;
+	margin: auto;
+}
+
+
+#titulo{
+	height: 50px;
+	background:#A4A4A4;
+}
+
+
+#correo1{
+	height: 450px;
+	background:pink;
+}
+
+
+#iconos{
+	height: 350px;
+	background:red;
+}
+
+
+#imagen1{
+	height: 350px;
+	width: 50%;
+	background:blue;
+	float: left;
+}
+
+
+#descripcion1{
+	height: 350px;
+	width: 50%;
+	background: yellow;
+	float: right;
+}
+
+
+#imagen2{
+	height: 350px;
+	width: 50%;
+	background:blue;
+	float: right;
+}
+
+
+#descripcion2{
+	height: 350px;
+	width: 50%;
+	background: yellow;
+	float: left
+}
+
+
+#imagen3{
+	height: 350px;
+	width: 50%;
+	background:blue;
+	float: left;
+}
+
+
+#descripcion3{
+	height: 350px;
+	width: 50%;
+	background: yellow;
+	float: right;
+}
+
+
+
+
+
+/*ERROR Inicio-->*/
+#personas{
+	height: 350px;
+	background:red;
+}
+
+
+#correo2{
+	height: 250px;
+	background:pink;
+}
+
+
+#redsocial{
+	height: 100px;
+	background:#FFFF00;
+/*ERROR Fin-->*/
+}
