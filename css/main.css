@@ -77,24 +77,25 @@
 }
 
 
-
-
-
-/*ERROR Inicio-->*/
 #personas{
+	width: 100%;
 	height: 350px;
 	background:red;
+	float: right;
 }
 
 
 #correo2{
+	width: 100%;
 	height: 250px;
 	background:pink;
+	float: right;
 }
 
 
 #redsocial{
+	width: 100%;
 	height: 100px;
-	background:#FFFF00;
-/*ERROR Fin-->*/
+	background: red;
+	float: right;
 }
