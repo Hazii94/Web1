@@ -3,7 +3,68 @@
 	padding: 0;
 }
 
+.col{
+	height: 350px;
+	display:block;
+	float: left;
+}
 
+.col-1{
+	width: 100%;
+}
+
+.col-2{
+	width: 50%;
+}
+
+.right{
+	float: right;
+}
+
+.white{
+	background-color: white;
+}
+
+.grey{
+	background-color: grey;
+}
+
+.red{
+	background-color:red;
+}
+
+.green{
+	background-color:green;
+}
+
+.with
+{
+	background-color:blue;
+}
+
+.yellow{
+	background-color: yellow;
+}
+
+.pink{
+	background-color:pink;
+}
+
+.titulo{
+	height: 50px;
+}
+
+.redsocial{
+	height: 80px;
+}
+
+
+
+
+
+
+
+/*
 #contenador{
 	width: auto;
 	background: #C0C0C0;
