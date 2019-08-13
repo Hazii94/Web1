@@ -59,104 +59,19 @@
 }
 
 
-
-
-
-
-
-/*
-#contenador{
-	width: auto;
-	background: #C0C0C0;
-	margin: auto;
+.TCG{
+	font-size: 20px;
+	font-family: sans-serif;
+	color: gray;
 }
 
-
-#titulo{
-	height: 50px;
-	background:#A4A4A4;
+.TCN{
+	font-family: sans-serif;
+	color: black;
+	font-size: 25px;
 }
 
-
-#correo1{
-	height: 450px;
-	background:pink;
-}
-
-
-#iconos{
-	height: 350px;
-	background:red;
-}
-
-
-#imagen1{
-	height: 350px;
+#buscarcuadro{
 	width: 50%;
-	background:blue;
-	float: left;
-}
-
-
-#descripcion1{
-	height: 350px;
-	width: 50%;
-	background: yellow;
-	float: right;
-}
-
-
-#imagen2{
-	height: 350px;
-	width: 50%;
-	background:blue;
-	float: right;
-}
-
-
-#descripcion2{
-	height: 350px;
-	width: 50%;
-	background: yellow;
-	float: left
-}
-
-
-#imagen3{
-	height: 350px;
-	width: 50%;
-	background:blue;
-	float: left;
-}
-
-
-#descripcion3{
-	height: 350px;
-	width: 50%;
-	background: yellow;
-	float: right;
-}
-
-
-#personas{
-	width: 100%;
-	height: 350px;
-	background:red;
-	float: right;
-}
-
-
-#correo2{
-	width: 100%;
-	height: 250px;
-	background:pink;
-	float: right;
-}
-
-
-#redsocial{
-	width: 100%;
-	height: 100px;
-	background: red;
-	float: right;
+	background-color: red;
 }
